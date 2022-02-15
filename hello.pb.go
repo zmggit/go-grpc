@@ -4,7 +4,7 @@
 // 	protoc        v3.9.0
 // source: hello.proto
 
-package go_grpc
+package __
 
 import (
 	context "context"
